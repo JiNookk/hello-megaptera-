@@ -1,2 +1,2 @@
-# hello-megaptera-
+# hello-megaptera
 Hello, Megeptera!
